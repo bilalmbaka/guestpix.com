@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+guestpix.com	TRUE	/	FALSE	1999999999	__cf_bm	r.GZO5ES5HIbRuClmmPtzQe48dCV704.52h1_1cZYVw-1790090768.8404057-1.0.1.1-s0NkDpftDmTK_DqXi548Kj.BGSR9ZCx7ii_nXl9TuSCt1wLdokbcVIdchsBB0tIrsd8jQRs0U64o.yWudq_cMFoWfIwPFPJMWkis86kZjuRlbPZSmI.d_lp21bhO41CF
+guestpix.com	TRUE	/	FALSE	1999999999	SameSite	None
+guestpix.com	TRUE	/	FALSE	1999999999	weglot_wp_rocket_cache	true
+
