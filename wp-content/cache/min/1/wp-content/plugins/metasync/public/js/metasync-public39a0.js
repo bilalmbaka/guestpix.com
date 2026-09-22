@@ -1,0 +1,1 @@
+(function($){'use strict';$(function(){var allPanels=$('.metasync-accordion-block.metasync-panel').hide();$('button.metasync-accordion').click(function(){$(this).parent().toggleClass('metasync-active');return!1})})})(jQuery)

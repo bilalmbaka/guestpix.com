@@ -1,0 +1,48 @@
+/*
+Theme Name:     Hello elementor child
+Theme URI:      https://wpcreative.com.au/
+Description:    Hello elementor child theme.
+Author:         WPC
+Author URI:     https://wpcreative.com.au/
+Template:       hello-elementor
+Version:        0.1.0
+*/
+
+/* Dynamic Product Price - Sale Price Styling */
+.dynamic-price {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    width: 100%; /* allow centering */
+    text-align: center;
+}
+
+.dynamic-price .original-price {
+    text-decoration: line-through;
+    color: #FFF; /* WHITE */
+    font-size: 0.7em;
+    opacity: 0.7;
+}
+
+.dynamic-price .sale-price {
+    color: #072A47; /* Navy Blue - your main headline color */
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.pricing-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.pricing-column > .elementor-widget-button {
+    margin-top: auto;
+}
+
+.pricing-column > *:not(.elementor-widget-button) {
+    flex-shrink: 0;
+}
+
+.pricing-column {
+    min-height: 100%;
+}
